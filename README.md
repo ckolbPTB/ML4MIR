@@ -4,6 +4,8 @@ Machine Learning for Medical Image Reconstruction
 In the previous lectures we discussed several approaches of how deep learning can be used for image reconstruction. 
 In this image reconstruction lab we are going to implement one of these approaches. 
 
+![Model-aware regularisation](model_aware_regularisation.png)
+
 We are going to learn:
 - how to read in MR raw data
 - understand the structure and parameters of MR raw data
