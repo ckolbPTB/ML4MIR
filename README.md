@@ -12,4 +12,4 @@ We are going to learn:
 - extend this reconstruction by including a neural network
 - evaluate image quality
 
-Start an interactive session on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ckolbPTB/ML4MIR.git/main)
+Start an interactive session on [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ckolbPTB/ML4MIR.git/main) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckolbPTB/ML4MIR/blob/main/image_reconstruction_lab.ipynb)
